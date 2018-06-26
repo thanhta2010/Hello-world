@@ -1,0 +1,43 @@
+.style1 {
+	FONT-SIZE: 9pt; FONT-FAMILY: Tahoma, Arial; Color:#ffffff
+}
+.style2 {
+	FONT-SIZE: 12pt; FONT-FAMILY: Tahoma, Arial; Color:#ffffff; font-weight: bold;
+}
+.style3 {
+	FONT-SIZE: 10pt; FONT-FAMILY: Tahoma, Arial; Color:#ffffff
+}
+.per {
+	FONT-SIZE: 12pt; FONT-FAMILY: Tahoma, Arial; Color:#ffffff; font-weight: bold; TEXT-DECORATION: underline
+}
+.foot {
+	FONT-SIZE: 8pt; FONT-FAMILY: Tahoma, Arial; Color:#ffffff;
+}
+
+
+A.gal:link {
+	FONT-SIZE:9.0pt; FONT-FAMILY: Tahoma, Arial; color:#ffffff; TEXT-DECORATION: underline
+}
+A.gal:active {
+	FONT-SIZE:9.0pt; FONT-FAMILY: Tahoma, Arial; color:#ffffff; 
+}
+A.gal:visited {
+	FONT-SIZE:9.0pt; FONT-FAMILY: Tahoma, Arial; color:#ffffff; 
+}
+A.gal:hover {
+	FONT-SIZE:9.0pt; FONT-FAMILY: Tahoma, Arial; color:#d60d8c; TEXT-DECORATION: underline
+}
+
+a.ft:link {
+	COLOR: #da6ede 
+}
+a.ft:visited {
+	COLOR: #da6ede
+}
+a.ft:hover {
+	COLOR: #999999
+}
+a.ft:active {
+	COLOR: #999999
+}
+
